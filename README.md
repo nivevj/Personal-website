@@ -1,2 +1,2 @@
 # Personal-website
-A personal website with protoflio
+A personal website with portfolio
